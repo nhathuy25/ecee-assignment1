@@ -12,7 +12,8 @@
  * @file stat.c
  * @brief C-programming Implementation
  *
- * Week 1 Assignment of the course "Introduction to Embedded Systems"
+ * Week 1 Assignment of the course "Introduction to Embedded Systems Software
+ * and Development Environments"
  *
  * @author Huu Nhat Huy NGUYEN
  * @date 1st November 2023
